@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 name Samuel Honório da Silva;
-    degrees Former Pharmacy Graduate;
-    degrees Information Systems Undergraduate;
+    degrees Pharmacy Graduate ('2015-2023');
+    degrees Information Systems Undergraduate('2025-2029');
 
 learning Python, Linux;
     interests QA, DevOps;
