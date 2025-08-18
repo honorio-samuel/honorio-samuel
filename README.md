@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-name Samuel Honório da Silva;
+name Samuel Honório da Silva;<br/>
     degrees Pharmacy Graduate ('2015-2023');<br/>
     degrees Information Systems Undergraduate('2025-2029');<br/>
 
