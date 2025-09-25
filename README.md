@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello,<br><br>name Samuel Honório da Silva;<br/><br>    degrees Pharmacy Graduate ('2015-2023');<br/><br>    degrees Information Systems Undergraduate('2025-2029');<br/><br><br>learning Python, Linux;<br/><br>    interests QA, DevOps;<br><br>contact honorio.sams@gmail.com; <br><br>return 0;
+Hello,<br><br>name Samuel Honório da Silva;<br/><br>    degrees Pharmacy Graduate ('2015-2023');<br/><br>    degrees Information Systems Undergraduate at IF Sudeste Minas Gerais - Brasil('2025-2029');<br/><br><br>learning C, Web Development, Python and Linux at the moment;<br/><br>    interests QA and DevOps;<br><br>contact honorio.sams@gmail.com; <br><br>return 0;
 
 
 ## 🌐 Socials:
